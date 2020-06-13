@@ -9,6 +9,32 @@ That is, while there is value in the items on the right, we value the items on t
 
 ~~Test~~
 
+
+June 12, 2020 (Friday)
+
+Good Communication Traits:
+-   Takes responsibility
+-   Respond non defensively
+-   Not easily threatened
+-   Build Mutual success
+- Seeks solutions
+-   Uses persuasion
+    
+-   Turn but not rigid
+    
+-   Thanks both short-term and long-term
+    
+-   Considers others points of view
+    
+-   Welcomes feedback
+    
+-   Considers conflict to be natural
+    
+-   Speak calmly and directly about difficult issues
+    
+-   Accept responsibility
+    
+-   Seeks excellence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODc3NzY4XX0=
+eyJoaXN0b3J5IjpbLTEyNTIxMTYxMywtODg4Nzc3NjhdfQ==
 -->
