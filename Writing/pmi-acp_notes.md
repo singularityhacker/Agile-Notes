@@ -6,11 +6,7 @@
  - Responding to change over following a plan
 That is, while there is value in the items on the right, we value the items on the left more.
 
-
-~~Test~~
-
-
-June 12, 2020 (Friday)
+**June 12, 2020** (Friday)
 
 Good Communication Traits:
 -   Takes responsibility
@@ -19,22 +15,14 @@ Good Communication Traits:
 -   Build Mutual success
 - Seeks solutions
 -   Uses persuasion
-    
 -   Turn but not rigid
-    
 -   Thanks both short-term and long-term
-    
 -   Considers others points of view
-    
 -   Welcomes feedback
-    
 -   Considers conflict to be natural
-    
 -   Speak calmly and directly about difficult issues
-    
 -   Accept responsibility
-    
 -   Seeks excellence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIxMTYxMywtODg4Nzc3NjhdfQ==
+eyJoaXN0b3J5IjpbNDUxNTQ1MzEzLC04ODg3Nzc2OF19
 -->
