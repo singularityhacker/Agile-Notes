@@ -1,35 +1,10 @@
-
-<!-----
-Copy and paste the converted output.
-
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 3.936 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β26
-* Sat Jun 13 2020 15:20:11 GMT-0700 (PDT)
-* Source doc: Agile Notes
------>
-
-
 **Agile Notes**
+
+**June x, 2020** ()
 
 **June 12, 2020** (Friday)
 
 Good Communication Traits:
-
-
-
 *   Takes responsibility
 *   Respond non defensively
 *   Not easily threatened
@@ -46,9 +21,6 @@ Good Communication Traits:
 *   Seeks excellence 
 
 Bad Communication Traits:
-
-
-
 *   When's others
 *   Response defensively
 *   Feels threatened and wronged
@@ -1131,6 +1103,6 @@ This guy made $400 a month on his ebook and tells all about it:
 [https://news.ycombinator.com/item?id=22026089](https://news.ycombinator.com/item?id=22026089)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3OTI1ODAsNDUxNTQ1MzEzLC04ODg3Nz
-c2OF19
+eyJoaXN0b3J5IjpbMTY1MTk4NTQxMSw0NTE1NDUzMTMsLTg4OD
+c3NzY4XX0=
 -->
