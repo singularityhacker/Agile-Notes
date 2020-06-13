@@ -3,7 +3,14 @@
 
 ---
 
-<h2 id="hello-world">hello world</h2>
-<h3 id="test-number-two">Test number two</h3>
-<h4 id="tracking-writing-progress-with-git">tracking writing progress with git</h4>
+# This is a heading 1
+1. This is being edited within Ulysses
+2. From a got local repo
+
+## This is a heading 2
+
+
+### This is a heading 3
+
+
 
