@@ -1,14 +1,12 @@
-**Agile Notes**
+**Learning Agile by Stellman**
 
-These notes are a mashup of the PMI-ACP study prep and my thoughts reading: Learning Agile by Andrew Stellman (O'Reilly Media). Thee is surely a better way to organize this information. 
+Book: [Learning Agile: Understanding Scrum, XP, Lean, and Kanban by Andrew Stellman](https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920)
 
 To do: 
 
 - break up notes by book 
 - move up to root of repo
 - Drop the dates and go by chapters
-
-
 
 **June 18, 2020** (Thursday)
 
