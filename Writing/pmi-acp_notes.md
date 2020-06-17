@@ -1,6 +1,53 @@
 **Agile Notes**
 
-These notes are a mashup of the PMI-ACP study prep and my thoughts reading: Learning Agile by Andrew Stellman (O'Reilly Media). Thee is surely a better way to organize this inf. 
+These notes are a mashup of the PMI-ACP study prep and my thoughts reading: Learning Agile by Andrew Stellman (O'Reilly Media). Thee is surely a better way to organize this information. 
+
+To do: 
+
+- break up notes by book 
+- move up to root of repo
+- Drop the dates and go by chapters
+
+
+
+**June 18, 2020** (Thursday)
+
+Chapter 6: XP and Embracing Change
+
+
+
+
+
+**June 17, 2020** (Wednesday)
+
+See the following paper on they do it: “Scrum Metrics for Hyperproductive Teams”
+
+On of the ways they get this way is by being hyper focused. Instead of doing a me-centered daily standup, they do a we-centered standup going through the top priority items, not individual contributors. They ask:
+
+- What did WE achieve yesterday on Priority 1?  
+- What was OUR contribution on Priority 1 worth in Story Points?  
+- What is OUR plan for completing Priority 1 today?  
+- What, if anything, is blocking US or has the potential to slow US down today?
+
+------
+
+Strictly speaking, a user story doesn't have to have UI but it does need to be able to provide demonstrable benefit to the user. This benefit may not introduce new UI (that may have been delivered in a previous increment) but it should be able to be demonstrated that the none ui work affected via a ui demo somehow. 
+
+The "one throat to choke" is increasingly looking to be at odds with collective commitment. 
+
+Letting the team fail (a basic element of coaching):
+
+It's better to introduce practices and then let the results how for them selves. If you are always advocating for agile and the team is not seeing problems solved, they will just see you as a zealot.
+
+Practices without values will not result in incredible change. Why would a team get real serious about stories if they don't value delivering working software every sprint? 
+
+"if you don’t get self-organization and collective commitment, you don’t get Scrum." - Ken Schwaber
+
+"Instead of trying to prevent those mistakes, he took advantage of them to create learning experiences for the team." - Stellman, Andrew. Learning Agile (p. 160)
+
+"Let the team fail: Certainly, don’t stand idly by while the team goes careening off a cliff. But do use the dozens of opportunities that arise each sprint to let them fail. Teams that fail together and recover together are much stronger and faster than ones that are protected. And the team may surprise you. The thing you thought was going to harm them may actually work for them. Watch and wait." - Stellman, Andrew. Learning Agile (p. 160)
+
+"Often, teams will bring in a consultant as a mentor because it’s easier for their bosses to listen to someone from outside the company tell them that they need to make changes." - Stellman, Andrew. Learning Agile (p. 161)
 
 **June 16, 2020** (Tuesday) 
 
