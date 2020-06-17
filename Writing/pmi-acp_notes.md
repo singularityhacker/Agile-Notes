@@ -1,6 +1,50 @@
 **Agile Notes**
 
-**June x, 2020** ()
+These notes are a mashup of the PMI-ACP study prep and my thoughts reading: Learning Agile by Andrew Stellman (O'Reilly Media). Thee is surely a better way to organize this inf. 
+
+**June 16, 2020** (Tuesday) 
+
+[Gold-plating](https://en.wikipedia.org/wiki/Gold_plating_(project_management)): building unasked for features (bad because it introduces new risk) Gold plating is one of the reason why many features go unused. This is why customer colaboration is so critical. 
+
+If you want to know how bas software used to be before agile look at the Standish Group's CHAOS report of the mid 90's. The 2002 study put the figures at 45% features never used and 19% rarely used. 
+
+"Working software" is a loaded term. It doesnt just mean that the code runs or works. It means code that actualy helps the user do their job. 
+
+Effective agile teams dont have these unused features because the user, in the form of the PO, determine what features get done. 
+
+"A user story is a deceptively simple tool. It’s a quick and simple description of a specific way that a user will use the software. **Most user stories are between one and four sentences long** — most teams have a rule of thumb that a user story has to fit on the front of a 3×5 index card." - Stellman, Andrew. Learning Agile (p. 143). O'Reilly Media. Kindle Edition. 
+
+"Many effective agile teams maintain a backlog that consists almost entirely of user stories. Because each user story is simple and written from the user’s perspective, it’s easy for the Product Owner to review the stories with the users and stakeholders in order to figure out which stories are the most valuable." - Stellman, Andrew. Learning Agile (p. 144). O'Reilly Media. Kindle Edition.
+
+Condition of Satisfaction == Acceptance Criteria
+
+"Typically, the conditions of satisfaction can fit on the back of the same 3×5 index card as the user story. The Product Owner usually has a hand in writing the conditions of satisfaction or at least reviews them when they’re written." - Stellman, Andrew. Learning Agile (p. 145). O'Reilly Media. Kindle Edition.
+
+"If you think that we’re looking at a 5-point story, and I think it’s only a 2-point story, we’re probably not disagreeing on how much work is involved — we’re disagreeing on exactly what that story means." - Stellman, Andrew. Learning Agile (p. 148). O'Reilly Media. Kindle Edition.
+
+"Here’s how many teams do this: The team holds the second sprint planning meeting. The Scrum Master starts with the first story, and leads a discussion with the team about exactly what they need to do to build it. Everyone works together to come up with a list of individual tasks that they think will each take no more than a day to complete. Each task is written on a separate card — some teams use different colored cards for stories and their tasks to make it easier to tell them apart — and the story card is grouped together with its task cards. This continues until all stories are planned. If the sprint planning timebox expires before all of the stories are broken down, each unplanned story gets a single task card for a task to plan out the story." - Stellman, Andrew. Learning Agile (p. 153). O'Reilly Media. Kindle Edition.
+
+The above breakdown and delineation of user stories from those things that bneed to be done in order to accomplish them ledns itself very much to subtasks. How can it not? There is no clearer way to communicate the grouping of suborniate activities with their promised story deliverable. In physical form, typicaly another color card would be used to indicate a task vs a story.
+
+Stellman, Andrew. Learning Agile (p. 155) exactly describes the subtask method as it was used with phyical cards. No names were addde to the story, only to the subtasks. 
+
+The actual story never get moved into the done colum until the last subtask is done. 
+
+So what happens at the end of the sprint?
+
+"The sprint is done when the timebox expires. This means that there might still be story and task cards left in the “To Do” and “In Progress” columns. The stories go back to the product backlog so they can be prioritized in the next sprint planning session,5 but the team can reduce the number of points based on the tasks that remain. The team does not get credit for completing a story until its card and all of its task cards are moved to the “Done” column." - Stellman, Andrew. Learning Agile (p. 157)
+
+Interestign that this is mistakenly seen as core scrum:
+
+"many teams make use of additional tools and techniques, which Cohn termed **Generally Accepted Scrum Practices (GASPs)**. For example, many teams find that their Daily Scrum meetings are more effective when held as a standup meeting, where everyone stands until the meeting is complete. This is not a core Scrum practice, but it’s accepted by many Scrum teams." - Stellman, Andrew. Learning Agile (p. 158). O'Reilly Media. Kindle Edition. 
+
+------
+
+"Collective commitment" is key. 
+
+"If you don’t get collective commitment, you don’t get Scrum." - Stellman, Andrew. Learning Agile (p. 141). O'Reilly Media. Kindle Edition. 
+
+"as the sprint progresses, they have to keep everyone up to date on all of the changes they discover during their Daily Scrum meetings. This is why it’s valuable (but not required) to have users and stakeholders present in the Daily Scrum — but also why it’s very important that they are only there to observe, and not to interfere." - Stellman, Andrew. Learning Agile (p. 141). O'Reilly Media. Kindle Edition.
 
 **June 12, 2020** (Friday)
 
