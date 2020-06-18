@@ -3,14 +3,15 @@
 
 ---
 
-# This is a heading 1
-1. This is being edited within Ulysses
-2. From a got local repo
+**Daily notes working through leading SDLC books, articles, and concepts.**
 
-## This is a heading 2
+Current:
 
+- [Learning Agile: Understanding Scrum, XP, Lean, and Kanban by Andrew Stellman](https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920)
 
-### This is a heading 3
+Planned:
 
-
+- [Shape Up](https://basecamp.com/shapeup) from Basecamp
+- [Introduction to DAD](https://www.amazon.com/Mark-Lines-ebook-dp-B07B9TZHDH/dp/B07B9TZHDH/ref=mt_other?_encoding=UTF8&me=&qid=)
+- And many [others](https://tab.bz/ypxug)
 
