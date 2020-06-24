@@ -5,16 +5,11 @@ Book: [Learning Agile: Understanding Scrum, XP, Lean, and Kanban by Andrew Stell
 To do: 
 
 - break up notes by book 
-- move up to root of repo
 - Drop the dates and go by chapters
 
-**June 18, 2020** (Thursday)
+**June 18-19, 2020** (Thur - Fri)
 
-Chapter 6: XP and Embracing Change
-
-
-
-
+Preparation for and delivery of Get Smarter talk on Becoming a Distributed Organization 
 
 **June 17, 2020** (Wednesday)
 
