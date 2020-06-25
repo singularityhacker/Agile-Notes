@@ -2,10 +2,35 @@
 
 Book: [Learning Agile: Understanding Scrum, XP, Lean, and Kanban by Andrew Stellman](https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920)
 
-To do: 
 
-- break up notes by book 
-- Drop the dates and go by chapters
+
+**Chapter 6: XP and Embracing Change**
+
+There are 13 primary XP practices that can be grouped into 4 categories. Unlike Scrum they are specific to programming. 
+
+1. Team
+2. Planning
+   1. Adopts the same practices from Scrum
+      1. "Once the planning is done, the team spends the first part of the iteration writing automated tests for the stories and tasks, and the rest of the iteration writing code to make the tests pass."
+   2. Quarterly Cycle
+      1. "Once a quarter, the team meets to take a look at the big picture. XP teams will talk about themes, or larger ideas in the real world that they can use to tie their project’s stories together."
+         1. Sounds exactly like agile release planning
+   3. Slack
+      1. "This practice has the team add minor, lower-priority stories to each weekly cycle. These stories are broken down into tasks during the planning meeting, but those tasks are left for the end of the iteration. That way, if the team runs into unexpected problems, it’s very easy for them to cut out those “slack” stories and still deliver complete, working software at the end of the cycle"
+3. Programming
+   1. TDD (unit tests)
+      1. Short circuits QA handoff patten because testing has already begun
+      2. Short circuits low level QA's because they are in fact specialized engineers
+      3. Short circuits long regression times through automation
+   2. Pair programming
+      1. Short circuits code reviews because two eyes have been on it already
+4. Integration
+   1. The 10-minute build rule
+   2. Continuous Integration (CI)
+
+
+
+------
 
 **June 18-19, 2020** (Thur - Fri)
 

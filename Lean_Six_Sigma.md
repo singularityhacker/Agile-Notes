@@ -30,11 +30,25 @@ The additional doctrine elements:
 
 There is no stronger supporter of Six Sigma’s effectiveness in a multinational conglomerate than Jack Welch, former CEO of General Electric (GE). Welch implemented Six Sigma at GE in 1995 and adopted it straight from the source: Motorola. In his 2005 book entitled Winning, he states, “Nothing compares to the effectiveness of Six Sigma when it comes to improving a company’s operational efficiency, raising its productivity, and lowering its costs.”
 
-D.M.A.I.C 
+**D.M.A.I.C**
 
-1. Define: the system, goals, requirements, and the voice of the customer.
-2. Measure: 
-3. Analyze: 
-4. Improve: 
-5. Control: 
+1. Define - the system, goals, requirements, and the voice of the customer.
+2. Measure - critical elements of the process and collect necessary data. 
+3. Analyze - collected data to identify root causes of defects and relationships between all factors.
+4. Improve - the process using Six Sigma and other innovation tools based on collection data.
+5. Control - the process during future executions to ensure consistent adherence to quality standards.
+
+**D.M.A.D.V**
+
+1. Define - target goals and the needs of the customer.
+2. Measure - and identify elements that are Critical to Quality (CTQs)
+3. Analyze - characteristics that have been identified and measured to determine design alternatives.
+4. Design - an improved alternative that is a "best fit" based on measurements and analysis.
+5. Verify - the design and begin implementation of the process.
+
+The DMADV is a variation of DMAIC oriented toward the introduction of new product lines and processes. It's also called Design for Six Sigma (DFSS)
+
+*I cant help but think that many of these rigorously engineered process frameworks should be implemented as DAO's. For the exact same reasons they have been rigorously modeled and sought to be driven by data. Wouldn't that fit right into the ISO way of doing things?*
+
+
 
