@@ -2,7 +2,7 @@
 
 See: https://www.scrum.org/resources/kanban-guide-scrum-teams
 
-Kanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work- in-progress limited pull system.
+Kanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work-in-progress limited pull system.
 
 Central to the definition of Kanban is the concept of flow. Flow is the movement of value throughout the product development system. Kanban optimizes flow by improving the overall efficiency, effectiveness, and predictability of a process.
 
@@ -67,3 +67,36 @@ The four Kanban practices are enabled by the Scrum Team’s definition of “Wor
 
 Scrum is not a process or technique. It is a framework within which people can address complex adaptive problems while productively and creatively delivering products of the highest possible value. As *The Scrum Guide* points out, it functions well as a container for other techniques, methodologies, and practices. Kanban's hyperfocus on transparency, visualization, and flow maximizes feedback, empiricism, and ultimately the delivery of value.
 
+
+
+------
+
+## Study Notes:
+
+Work Item Ageing:
+
+While in some cases observing old age across multiple items in a certain area of the workflow can help identify bottlenecks, the main role of the Work Item Age metric is to identify specific items that are struggling and require attention. Bottlenecks/systemic constraints are typically identified by looking at the queues on the board as well as charts like the Cumulative Flow Diagram.
+
+Throughput:
+
+When planning a sprint our main interest is to figure out how many backlog items to pull into the Sprint. Throughput of previous Sprints is the most useful in figuring this out. An advanced technique would be to use Monte Carlo simulation using this throughput data in order to figure out confidence-levels for various amounts of items in the Sprint Backlog.
+
+Feedback Loops:
+
+Work Item Age is a leading indicator for the length of the Scrum Team’s feedback loop for that (in progress) item. If an item is aging quite a bit it is certainly an indication that it’s cycle time will be high. Cycle time throughout the team’s definition of Workflow can also be considered the length of the team’s feedback loop.
+
+[Leading vs Lagging Indicators](https://www.agile42.com/en/blog/2018/11/08/leading-and-lagging-indicators-right-way-measure-performance/#:~:text=A%20leading%20indicator%20is%20a,only%20record%20what%20has%20happened.):
+
+Cycle time is a lagging indicator for the length of the Scrum Team’s feedback loop for a product backlog item. You only know the cycle time after the PBI reached the end of the team’s definition of Workflow. You can only measure cycle time by looking at historical data.  It is an indicator and point of reference but should be used carefully when predicting the future. A Service Level Expectation (SLE) is based on cycle time scatter plot percentile lines.
+
+"A lagging indicator without a leading indicator means that you lack clarity on how an outcome will be achieved and miss early warnings on whether or not you are moving towards your strategic goal. Likewise, a leading indicator without a lagging indicator means you lack confirmation on whether or not you are indeed achieving your end goal."
+
+In a Scrum context: https://www.leadingagile.com/2018/02/leading-lagging-indicators/
+
+Tasks vs value limit:
+
+In a flow-based system, the number of tasks is not necessarily limited, rather the amount of value-generating work items is limited.
+
+Team Service Level Expectation (SLE):
+
+SLE CAN be used in Sprint Planning to provide PO and stakeholders with an idea towards the service level that can be expected from the team. That doesn’t include providing a specific date for each PBI in the SBL. The SLE enables the Development Team to forecast a finished date at a certain confidence level once the item has been started.
