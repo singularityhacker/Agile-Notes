@@ -229,10 +229,24 @@ SLE CAN be used in Sprint Planning to provide PO and stakeholders with an idea t
       2. In general, it is better to finish work already started before starting new work.
       3. Ask yourself: does the work I'm expediting really need to be expedited? Do I even have policies in place on how to decide what to expedite?
 
+## Study Materials
 
+Books: 
+
+- Practical Kanban: From Team Focus to Creating Value by Klaus Leopold
+- Agile Project Management with Kanban (Developer Best Practices) by Eric Brechner
+
+
+Test quizes: 
+
+- Udemy: https://www.udemy.com/course/scrum-with-kanban-psk-i-certification-2019/
+- https://mplaza.training/exam-simulators/psk/
 
 ## Terms
 
-ScrumBan
+ScrumBan: A way to introduce Lean/Kanban flow into a Scrum context – while keeping the core Scrum process intact.
 
-A way to introduce Lean/Kanban flow into a Scrum context – while keeping the core Scrum process intact.
+## Certification Test
+
+https://www.scrum.org/professional-scrum-with-kanban-certification
+
