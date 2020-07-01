@@ -229,18 +229,26 @@ SLE CAN be used in Sprint Planning to provide PO and stakeholders with an idea t
       2. In general, it is better to finish work already started before starting new work.
       3. Ask yourself: does the work I'm expediting really need to be expedited? Do I even have policies in place on how to decide what to expedite?
 
+9. [My journey with PSK I, and how I passed](https://www.scrum.org/forum/scrum-forum/16795/my-journey-psk-i-and-how-i-passed)
+   1. ...
+
+10. [Actionable Metrics for Predictability video](https://vimeo.com/146545310)
+   1. ...
+
 ## Study Materials
 
 Books: 
 
 - Practical Kanban: From Team Focus to Creating Value by Klaus Leopold
 - Agile Project Management with Kanban (Developer Best Practices) by Eric Brechner
+- When Will It Be Done by Daniel Vacanti
+- Actionable Agile Metrics for Predictability by Daniel Vacanti
 
 
 Test quizes: 
 
 - Udemy: https://www.udemy.com/course/scrum-with-kanban-psk-i-certification-2019/
-- https://mplaza.training/exam-simulators/psk/
+- Quiz web app: https://mplaza.training/exam-simulators/psk/
 
 ## Terms
 
@@ -250,4 +258,15 @@ ScrumBan: A way to introduce Lean/Kanban flow into a Scrum context – while kee
 
 https://www.scrum.org/professional-scrum-with-kanban-certification
 
-[links](foo)
+## Tools
+
+Cumulative Flow Diagram (CFD): Band thickness and throughput
+   1. Even means input/output are even and flow is good.
+   2. If a band on your CFD is continuously narrowing that means that the throughput of the stage it represents is higher than the entry rate. This is a sign that you’ve got more capacity than you really need at this stage and you should relocate it in order to optimize the flow.
+   3. Rappidly widening bands means the number of cards that enter the corresponding stage on the Kanban board is higher than the number of assignments that are leaving it. It is a common problem that is usually caused by multitasking and other waste activities that don’t generate value.
+
+The cumulative flow diagram is one of the most advanced analytics for Lean project management.
+
+- It provides a concise visualization of the metrics of flow.
+- Shows you how stable your flow is and helps you understand where to focus in order to make your process more predictable.
+- Gives you quantitative and qualitative insight into both past and existing problems.
