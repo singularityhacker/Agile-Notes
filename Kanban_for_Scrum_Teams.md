@@ -106,7 +106,7 @@ SLE CAN be used in Sprint Planning to provide PO and stakeholders with an idea t
 1. [Understanding the Kanban for Scrum Teams Guide](https://www.scrum.org/resources/blog/understanding-kanban-scrum-teams-guide)
 
    1. Kanban: Is your sprint a swamp or a river
-   2. Only included the 4 main Kanban points because they compliment what a scrum team is already doing. Scrum teams already have a collaborative inspect and adapt experimentation process together with a set of explicit feedback loops they’re using. Advanced concepts not part of the guide because we don’t consider them part of the “Minimally viable set of practices” a Scrum team should focus on when trying to improve their flow.
+   2. Only included the 4 main Kanban points because they compliment what a scrum team is already doing. Scrum teams already have a collaborative inspect-and-adapt experimentation process together with a set of explicit feedback loops they’re using. Advanced concepts not part of the guide because we don’t consider them part of the “Minimally viable set of practices” a Scrum team should focus on when trying to improve their flow.
    3. Advanced Kanban concepts include:
       1. Classes of service
       2. Cost of delay
@@ -124,7 +124,7 @@ SLE CAN be used in Sprint Planning to provide PO and stakeholders with an idea t
       1. What they are missing is Kanban’s key practice of actively managing flow by the team. Combine actively managing flow with the practice of improving collaboratively, and you naturally end up with cross-functional, self-organizing teams of people working together to deliver value. WIP limits encourages individuals to swarm.
    5. MYTH: Scrum’s Sprint Planning Event is a time waste
       1. The intent of the Sprint Planning meeting isn’t to create a detailed Sprint plan, but to instead come together as a team to decide what goal to achieve and to come up with a plan to complete that goal.
-   6. MYTH: Sprints constrain flow
+   6. MYTH: Sprints Constrain Flow
       1. "The second misunderstanding is that a Development Team can only work on items specified in Sprint Planning. Nothing in the Scrum Guide stops a team from embarking on new work mid-Sprint as long as it meets two conditions. The first is that <u>the work doesn’t endanger the Sprint Goal</u>. The Development Team is still committed to its delivery. The second is that the team will have a potentially releasable product Increment for the Sprint Review. This means that either the new work will be “Done” by the end of the Sprint or that working on <u>it won’t restrict the team from having a potentially releasable Increment at the end of that Sprint</u>."
 
 3. [A Kanban Primer for Scrum Teams](https://www.scrum.org/resources/blog/kanban-primer-scrum-teams)
@@ -245,10 +245,10 @@ Books:
 - Actionable Agile Metrics for Predictability by Daniel Vacanti
 
 
-Test quizes: 
+Test quizzes: 
 
 - Udemy: https://www.udemy.com/course/scrum-with-kanban-psk-i-certification-2019/
-- Quiz web app: https://mplaza.training/exam-simulators/psk/
+- Quiz web app: https://mplaza.training/exam-simulators/psk/ --> https://unbored.training/courses/scrum-with-kanban-exam-simulator/
 
 ## Terms
 
@@ -263,7 +263,7 @@ https://www.scrum.org/professional-scrum-with-kanban-certification
 Cumulative Flow Diagram (CFD): Band thickness and throughput
    1. Even means input/output are even and flow is good.
    2. If a band on your CFD is continuously narrowing that means that the throughput of the stage it represents is higher than the entry rate. This is a sign that you’ve got more capacity than you really need at this stage and you should relocate it in order to optimize the flow.
-   3. Rappidly widening bands means the number of cards that enter the corresponding stage on the Kanban board is higher than the number of assignments that are leaving it. It is a common problem that is usually caused by multitasking and other waste activities that don’t generate value.
+   3. Rapidly widening bands means the number of cards that enter the corresponding stage on the Kanban board is higher than the number of assignments that are leaving it. It is a common problem that is usually caused by multitasking and other waste activities that don’t generate value.
 
 The cumulative flow diagram is one of the most advanced analytics for Lean project management.
 
