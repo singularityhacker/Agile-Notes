@@ -77,7 +77,7 @@ While in some cases observing old age across multiple items in a certain area of
 
 **Throughput**
 
-When planning a sprint our main interest is to figure out how many backlog items to pull into the Sprint. Throughput of previous Sprints is the most useful in figuring this out. An advanced technique would be to use Monte Carlo simulation using this throughput data in order to figure out confidence-levels for various amounts of items in the Sprint Backlog.
+When planning a sprint our main interest is to figure out how many backlog items to pull into the Sprint. The throughput of previous Sprints is the most useful in figuring this out. An advanced technique would be to use Monte Carlo simulation using this throughput data in order to figure out confidence-levels for various amounts of items in the Sprint Backlog.
 
 **Feedback Loops**
 
@@ -153,7 +153,7 @@ SLE CAN be used in Sprint Planning to provide PO and stakeholders with an idea t
    1. These are the 4 key flow metrics that Scrum teams can use to improve their flow:
 
       1. WIP
-         1. Note the difference between WIP and the WIP Limit. The WIP Limit is a policy which the Scrum Team uses as a "constraint" to help them shape the flow of work. The goal of the WIP Limit is to reduce the amount of actual work in process (WIP). The team can use the WIP metric to provide transparency into their progress towards reducing their WIP and improving their flow.
+         1. Note the difference between WIP and the WIP Limit. The WIP Limit is a policy that the Scrum Team uses as a "constraint" to help them shape the flow of work. The goal of the WIP Limit is to reduce the amount of actual work in process (WIP). The team can use the WIP metric to provide transparency into their progress towards reducing their WIP and improving their flow.
          2. Tool/Report: Cumulative Flow Diagram
       2. Cycle Time
          1. This metric is a lagging indicator of flow. It is available only after an item is actually finished from the workflow perspective (e.g. reached a Done lane on the Kanban board). It is typically used to drive improvement work as well as to be able to establish internal/external expectations as to the team's turnaround time on specific items.
@@ -208,7 +208,7 @@ SLE CAN be used in Sprint Planning to provide PO and stakeholders with an idea t
 
    4. The second greatest influence on cycle time is pull policies.
 
-   5. Put cycle time in histogram and notice the following. Affects of pull policies on cycle time:
+   5. Put cycle time in a histogram and notice the following. Affects of pull policies on cycle time:
 
    6. | Pull Policy                         | Cycle Time |
       | ----------------------------------- | ---------- |
