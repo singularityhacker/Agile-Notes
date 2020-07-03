@@ -15,7 +15,9 @@ The <u>four basic metrics of flow</u> that Scrum Teams using Kanban need to trac
 - **Work Item Age:** The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
 - **Throughput:** The number of work items finished per unit of time.
 
-Littles Law - The Key to Governing Flow: Average cycle time = average work in progress / average throughput
+Littles Law - The Key to Governing Flow: 
+
+**Average cycle time = average work in progress / average throughput**
 
 Scrum Teams can achieve flow optimization by using the following four practices:
 
@@ -71,6 +73,50 @@ Scrum is not a process or technique. It is a framework within which people can a
 
 ## Study Notes from practice tests:
 
+**Kanban**
+
+A strategy for optimizing the flow of stakeholder value through a process that uses a visual, WIP limited, pull system.
+
+P.S. You have to have a board and WIP limits to be Kanban as well
+
+**Practices**
+
+ONLY the following are Kanban practices:
+
+Limit WIP
+Visualize flow
+Actively manage WIP
+Inspect and adapt the workflow
+
+**Optionals'**
+
+When Scrum is used with Kanban, none of the fundamental elements of Scrum (i.e., roles, events, and artifacts) are removed; this process only adds new practices and processes to the existing Scrum framework.
+
+Needless to say, any non-Kanban element that is optional in Scrum (e.g., user stories, story points, planning poker, and burn-down charts) stays optional in Scrum + Kanban.
+
+**Little's Law**
+
+Based on Little's Law, the following formula is true in a stable system:
+Average Cycle Time = Average Work in Progress / Average Throughput
+
+Based on Little's Law, there's a relationship among WIP, Throughput, and Cycle Time. Throughput and Cycle Time are lagging indicators and WIP is a leading indicator. Remember that Little's Law can be used to calculate one of the metrics based on the other two, for historical data, BUT it should not be used to forecast the future.
+
+**Element Inspection Event**
+
+The most important elements inspected in each Scrum event are:
+
+1. Sprint Planning: Throughput
+2. Daily Scrum: Work Item Age, WIP, WIP Limit, CFD
+3. Sprint Review: Cycle Time, Throughput
+4. Sprint Retrospective: WIP Limits, Cycle Time, Throughput, SLEs, CFD, scatterplot
+
+**The Four Flow Metrics**
+
+1. Throughput
+2. Cycle Time
+3. Work In Progress
+4. Work Item Age
+
 **Work Item Ageing**
 
 While in some cases observing old age across multiple items in a certain area of the workflow can help identify bottlenecks, the main role of the Work Item Age metric is to identify specific items that are struggling and require attention. Bottlenecks/systemic constraints are typically identified by looking at the queues on the board as well as charts like the Cumulative Flow Diagram.
@@ -91,13 +137,73 @@ Cycle time is a lagging indicator for the length of the Scrum Team’s feedback 
 
 In a Scrum context: https://www.leadingagile.com/2018/02/leading-lagging-indicators/
 
+Leading indicators are:
+- Work in Progress (WIP)
+- Work Item Age
+
+Lagging indicators are:
+- Cycle Time
+- Throughput
+- Velocity (not a flow indicator, though)
+
+
+**WIP Limit**
+
+The following are most likely to happen when WIP is limited because of shorter average Cycle Time:
+1. Faster value generation
+2. More sustainable pace
+
+According to Little's Law, reducing the average WIP is correlated with shorter average Cycle Time in a stable system (everything else being the same). A shorter Cycle Time has many advantages such as shorter feedback loops, more predictability, and less waste.
+
+Because limiting WIP "seems" to prevent us from utilizing 100% of our capacity, some people think that it's less productive, which is not true.
+
+Remember that WIP Limit creates a pull system, which has its advantages. The way Kanban visualizes Workflows, which is based on determining states of work (columns on a Kanban board) causes some people to think that it's based on silos and reduces collaboration. This is not the case, though, because the pull system of Kanban forces people to work together on bottlenecks and improve the whole process, rather than being focused on one of the states. As a result, a true Kanban system can even increase collaboration.
+
+Finally, some people think that because the WIP Limit is a limit, it's against self-organization. This is not so, because the team members themselves are the ones who decide to use Kanban and set the limits accordingly.
+
+No one is allowed to increase the Sprint WIP Limits in response to emerging urgent work. Having urgent work is not a reason for increasing the WIP Limit; you either expedite the work (exceed the WIP Limit) or wait until you have free capacity.
+
+**Throughput vs Velocity**
+
+Throughput is the number of items that exit a Workflow, or a state of Workflow, in a unit of time; e.g., 20 user stories per Sprint.
+
+Remember that Throughput is about the number of items, in contrast to velocity, which is about the size of items finished in a unit of time (e.g., 150 story points per Sprint).
+
+
 **Tasks vs Value limit**
 
 In a flow-based system, the number of tasks is not necessarily limited, rather the amount of value-generating work items is limited.
 
-**Team Service Level Expectation (SLE)**
+**SLE: Team Service Level Expectation**
 
 SLE CAN be used in Sprint Planning to provide PO and stakeholders with an idea towards the service level that can be expected from the team. That doesn’t include providing a specific date for each PBI in the SBL. The SLE enables the Development Team to forecast a finished date at a certain confidence level once the item has been started.
+
+Must contain:
+1. A period (range of durations)
+2. A probability
+
+An SLE is a simple expectation/goal (not a promise or a consequential commitment) about Cycle Times. Because of uncertainties, it's presented with one or more pairs of probability (e.g., 85%) and range (e.g., up to 7 days). If different types of work are defined in the Workflow, there can be different SLEs for those types.
+
+**Sprint Backlog**
+
+The old-fashioned approach in Agile projects was to keep the Sprint Backlog frozen, in order to create a stable environment and increase productivity; after all, Sprints are not that long. However, this approach hasn't seemed flexible enough in recent years, and many resources, including Scrum.org, believe that you can add or remove items in the Sprint Backlog when needed (which raises the question of why there should be a Sprint Backlog to begin with, but that's a different problem).
+
+So, it is acceptable to add and remove work items according to Scrum.org. However, that doesn't mean you can make any changes you want:
+1. Changes should be compatible with the Sprint Goal, and
+2. You should be able to deliver something potentially releasable by the end of the Sprint if you make those changes.
+
+**Kanban and Scrum**
+
+The Scrum values are:
+
+Focus
+Openness
+Courage
+Commitment
+Respect
+
+Scrum elements (roles, events, and artifacts) do *change* when used with Kanban:
+None of the Scrum elements (roles, events, and artifacts) are removed when it's used with Kanban; however, that doesn't mean that there's no change at all, otherwise, it would mean that Kanban and Scrum work in isolation. For example, Daily Scrums may change a little because developers now have access to interesting information such as Work Item Age. However, Daily Scrums won't change by not being timeboxed anymore.
 
 ------
 
@@ -260,13 +366,39 @@ https://www.scrum.org/professional-scrum-with-kanban-certification
 
 ## Tools
 
-Cumulative Flow Diagram (CFD): Band thickness and throughput
+**Cumulative Flow Diagram (CFD)**
+Band thickness and throughput
    1. Even means input/output are even and flow is good.
    2. If a band on your CFD is continuously narrowing that means that the throughput of the stage it represents is higher than the entry rate. This is a sign that you’ve got more capacity than you really need at this stage and you should relocate it in order to optimize the flow.
    3. Rapidly widening bands means the number of cards that enter the corresponding stage on the Kanban board is higher than the number of assignments that are leaving it. It is a common problem that is usually caused by multitasking and other waste activities that don’t generate value.
 
-The cumulative flow diagram is one of the most advanced analytics for Lean project management.
+A CFD shows the cumulative arrivals to and departures from a process over time, and is one of the best tools to visualize flow. The cumulative flow diagram is one of the most advanced analytics for Lean project management.
 
 - It provides a concise visualization of the metrics of flow.
 - Shows you how stable your flow is and helps you understand where to focus in order to make your process more predictable.
 - Gives you quantitative and qualitative insight into both past and existing problems.
+- CFDs cannot be used for forecasting.
+- Show the exact WIP, not average, and not approximate.
+- To calculate the values necessary for SLEs, more granular data is needed; e.g., you can use a Cycle Time scatterplot.
+- They are for average Cycle Time of groups of items, not single items.
+- CFDs cannot be used for forecasting.
+
+Shows:
+- Cumulative number of work items
+- Stages of the workflow
+- WIP
+- Approx. avg cycle time
+- Average throughput
+
+Does not show:
+- Does NOT show cycle time
+
+A CFD can be used for calculating the following metrics:
+
+1. Throughput, for a date range, average
+2. WIP, for a date, exact
+3. Cycle Time, for a date, approximate average
+4. These calculations are for groups of work items, not single items.
+
+**Work Item Age**
+Work Item Aging is any type of chart that shows the age of all in-progress items (separately). Remember that age is a metric that is only applicable to in-progress items.

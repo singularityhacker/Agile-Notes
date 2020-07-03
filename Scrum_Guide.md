@@ -22,7 +22,7 @@ The Scrum framework consists of Scrum Teams and their associated roles, events, 
 
 ------
 
-The PDCA (Plan DO Check Act) cycle was made popular by Dr. W. Edwards Deming. This is a scientific cyclic process which can be used to improve the process (or product). This is cyclic in nature and usually time boxed.
+The PDCA (Plan DO Check Act) cycle was made popular by Dr. W. Edwards Deming. This is a scientific cyclic process which can be used to improve the process (or product). This is cyclic in nature and usually time-boxed.
 
 • Plan – Sprint planning
 • Do – Actual engineering sprint – deliver a potential shippable code
