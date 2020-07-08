@@ -101,6 +101,18 @@ Average Cycle Time = Average Work in Progress / Average Throughput
 
 Based on Little's Law, there's a relationship among WIP, Throughput, and Cycle Time. Throughput and Cycle Time are lagging indicators and WIP is a leading indicator. Remember that Little's Law can be used to calculate one of the metrics based on the other two, for historical data, BUT it should not be used to forecast the future.
 
+Here are the definitions for these equations’ parameters:
+
+Lead time: The time between the initiation and delivery of a work item.
+Cycle time: The time between two successive deliveries
+Throughput: The rate at which items are passing through the system.
+WIP: The number of work items in the system. Work that has been started, but not yet completed
+
+This is the main theorem in the Queuing Theory, which is also known as Little’s Law (It was described by John Little in 1961):
+The average number of work items in a stable system is equal to their average completion rate, multiplied by their average time in the system.
+
+On lead time vs cycle time: https://kanbantool.com/kanban-cycle-time-vs-lead-time
+
 **Element Inspection Event**
 
 The most important elements inspected in each Scrum event are:
@@ -125,7 +137,23 @@ While in some cases observing old age across multiple items in a certain area of
 
 When planning a sprint our main interest is to figure out how many backlog items to pull into the Sprint. The throughput of previous Sprints is the most useful in figuring this out. An advanced technique would be to use Monte Carlo simulation using this throughput data in order to figure out confidence-levels for various amounts of items in the Sprint Backlog.
 
+**Definition of Workflow**
+
+A defined workflow must include the following:
+
+1. Starting point
+2. Finished point
+3. At least one active state
+4. Pull policies
+5. Definition of individual units of value
+6. Every Scrum must create one
+
 **Feedback Loops**
+
+Both cycle time and work item age are feedback loops. 
+
+- Work item age: This gives daily feedback on the age of an item. This is very important during Daily Scrum!
+- Cycle Time: This gives feedback on how long it took to finish an item/average items.
 
 Work Item Age is a leading indicator for the length of the Scrum Team’s feedback loop for that (in progress) item. If an item is aging quite a bit it is certainly an indication that it’s cycle time will be high. Cycle time throughout the team’s definition of Workflow can also be considered the length of the team’s feedback loop.
 
@@ -182,7 +210,19 @@ Must contain:
 1. A period (range of durations)
 2. A probability
 
-An SLE is a simple expectation/goal (not a promise or a consequential commitment) about Cycle Times. Because of uncertainties, it's presented with one or more pairs of probability (e.g., 85%) and range (e.g., up to 7 days). If different types of work are defined in the Workflow, there can be different SLEs for those types.
+An SLE is a simple expectation/goal (not a promise or a consequential commitment) about Cycle Times. Because of uncertainties, it's presented with one or more pairs of probability (e.g., 85%) and range (e.g., up to 7 days). If different types of work are defined in the Workflow, there can be different SLEs for those types. Remember that it is not a commitment, it is an expectation/forecast.
+
+Q. Why is SLE realistic?
+A. An SLE is realistic because it is based on historical data, the team met these expectations in the past. Although not every item will meet the completion time, an SLE is more than a completion time alone, it also includes a probability.
+
+Q. Why is SLE reliable?
+A. Example SLE: 80% of the work items of this type are done in 5 days.
+
+In the example, we see that our team completed these types of tasks 80% of the time in 5 days or less. The SLE is mainly used as an inspection and adaptation of the flow by the development team. When a work item is reaching its SLE or has passed its SLE could be a trigger for the team to act upon.
+
+Note that an SLE is not reliable for commitment dates, it is not meant to be used like that.
+
+One thing to note though is that an SLE improves over time because it has more historical data.
 
 **Sprint Backlog**
 
@@ -204,6 +244,10 @@ Respect
 
 Scrum elements (roles, events, and artifacts) do *change* when used with Kanban:
 None of the Scrum elements (roles, events, and artifacts) are removed when it's used with Kanban; however, that doesn't mean that there's no change at all, otherwise, it would mean that Kanban and Scrum work in isolation. For example, Daily Scrums may change a little because developers now have access to interesting information such as Work Item Age. However, Daily Scrums won't change by not being timeboxed anymore.
+
+**Expedites**
+
+When something really urgent occurs, for example, a production bug it is better to add it as an exception rather than changing the WIP Limits. WIP Limits are used to optimise flow. If you would change WIP Limits due to an urgent production bug the team might miss the chance to improve their flow.
 
 ------
 
