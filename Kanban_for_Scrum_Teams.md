@@ -19,6 +19,10 @@ Littles Law - The Key to Governing Flow:
 
 **Average cycle time = average work in progress / average throughput**
 
+> "The average number of work items in a stable system is equal to their average completion rate, multiplied by their average time in the system." - John Little, 1961
+
+The average completion rate can be represented by either throughput, or its inverse, average cycle time.
+
 Scrum Teams can achieve flow optimization by using the following four practices:
 
 1. - **Visualization of the workflow**
@@ -111,7 +115,7 @@ WIP: The number of work items in the system. Work that has been started, but not
 This is the main theorem in the Queuing Theory, which is also known as Little’s Law (It was described by John Little in 1961):
 The average number of work items in a stable system is equal to their average completion rate, multiplied by their average time in the system.
 
-On lead time vs cycle time: https://kanbantool.com/kanban-cycle-time-vs-lead-time
+On lead-time vs cycle time: https://kanbantool.com/kanban-cycle-time-vs-lead-time
 
 **Element Inspection Event**
 
@@ -411,6 +415,9 @@ https://www.scrum.org/professional-scrum-with-kanban-certification
 ## Tools
 
 **Cumulative Flow Diagram (CFD)**
+
+Diagram examples: https://imgur.com/a/TmwFvda
+
 Band thickness and throughput
    1. Even means input/output are even and flow is good.
    2. If a band on your CFD is continuously narrowing that means that the throughput of the stage it represents is higher than the entry rate. This is a sign that you’ve got more capacity than you really need at this stage and you should relocate it in order to optimize the flow.

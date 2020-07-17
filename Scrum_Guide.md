@@ -8,7 +8,7 @@ The Scrum framework consists of Scrum Teams and their associated roles, events, 
    3. SM
 2. Events (5)
    1. The Sprint
-      1. The Sprint is an event in itself that contains all the work and all the other events that happen during the time boxed period of development.
+      1. The Sprint is an event in itself that contains all the work and all the other events that happen during the time-boxed period of development.
    2. Sprint Planning
    3. Daily Scrum
    4. Sprint Review
