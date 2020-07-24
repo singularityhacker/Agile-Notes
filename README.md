@@ -1,17 +1,6 @@
----
-
-
----
-
-**Daily notes working through leading SDLC books, articles, and concepts.**
-
-Current:
-
--[[Table of Contents]]
+**Notes on leading SDLC books, articles, and concepts.**
 
 - [Kanban for Scrum Teams](Kanban_for_Scrum_Teams.md)
-- 
-
 - [Learning Agile: Understanding Scrum, XP, Lean, and Kanban by Andrew Stellman](https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920)
 
 Planned:
