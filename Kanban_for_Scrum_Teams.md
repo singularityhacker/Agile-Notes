@@ -453,3 +453,85 @@ A CFD can be used for calculating the following metrics:
 
 **Work Item Age**
 Work Item Aging is any type of chart that shows the age of all in-progress items (separately). Remember that age is a metric that is only applicable to in-progress items.
+
+----
+**Teaching Notes**
+
+I. A Review of Scrum
+
+> Scrum: A framework within which other techniques and methods can be practiced. Scrum is not a process, technique, or definitive method. It is a framework within which you can employ various processes and techniques.
+
+   - Three roles:
+      a. PO
+      b. Dev Team
+      c. SM
+   - Five Events:
+      a. The Sprint
+      b. Sprint Planning
+      c. Daily Scrum
+      d. Sprint Review
+      e. Sprint Retro
+   - Three Artifacts
+      a. Product Backlog
+      b. Sprint Backlog
+      c. Increment
+   - The Rules
+      The rules of Scrum bind together the roles, events, and artifacts, governing the relationships and interactions between them.
+
+II. Kanban
+
+> Kanban: A strategy for oprimizing the flow of stakeholder value through a process that uses a visual, WIP limited, pull system.
+
+The most central concept to Kanban is the "Workflow"
+
+Q. What is the Kanban Guide's definition of "Workflow"?
+A. A shared understanding within the SCRUM Team of how work is defined (work items), the start state of the process, the active states for the work items and the finished state of the work items. Workflow can be thought of as the "Team's policy" for how to get work to "Done".
+
+The workflow must have 5 things:
+   1. Defined start + finish points 
+   2. Definition of work items (units of value) 
+   3. Defined workflow states 
+   4. Pull policies 
+   5. WIP Limits
+
+Q. What is "Flow" related to Kanban?
+A. It is the movement of customer value throughout the product development system.
+
+
+III. The 4 Flow Metrics
+   1. WIP 
+   2. Cycle time 
+   3. Work item age 
+   4. Throughput
+
+
+IV. The Flow Formula
+
+Avg cycle time = Avg WIP / Avg Throughput
+
+
+V. The 4 Flow Practices
+   1. Visualization of the workflow 
+   2. Limiting WIP 
+   3. Active management of work items 
+   4. Inspect and adapt the definition of workflow
+
+VI. Flow Indicators
+   Leading: 
+      1. WIP 
+      2. Work item age
+   Lagging: 
+      1. Cycle time 
+      2. Throughput 
+      3. Velocity (not a flow metric)
+
+
+
+
+
+
+
+
+
+
+
