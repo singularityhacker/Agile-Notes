@@ -487,9 +487,11 @@ The most central concept to Kanban is the "Workflow"
 Q. What is the Kanban Guide's definition of "Workflow"?
 A. A shared understanding within the SCRUM Team of how work is defined (work items), the start state of the process, the active states for the work items and the finished state of the work items. Workflow can be thought of as the "Team's policy" for how to get work to "Done".
 
+A work about policies: Policies are the "rules of the game" for the Scrum Team's “Workflow”. Small changes to those policies can have a material impact on how the Scrum Team performs overall.
+
 The workflow must have 5 things:
    1. Defined start + finish points 
-   2. Definition of work items (units of value) 
+   2. Definition of work items (units of customer value) 
    3. Defined workflow states 
    4. Pull policies 
    5. WIP Limits
@@ -497,18 +499,15 @@ The workflow must have 5 things:
 Q. What is "Flow" related to Kanban?
 A. It is the movement of customer value throughout the product development system.
 
-
 III. The 4 Flow Metrics
    1. WIP 
    2. Cycle time 
    3. Work item age 
    4. Throughput
 
-
 IV. The Flow Formula
 
 Avg cycle time = Avg WIP / Avg Throughput
-
 
 V. The 4 Flow Practices
    1. Visualization of the workflow 
@@ -517,13 +516,66 @@ V. The 4 Flow Practices
    4. Inspect and adapt the definition of workflow
 
 VI. Flow Indicators
+
    Leading: 
-      1. WIP 
-      2. Work item age
+   1. WIP 
+   2. Work item age
+   
    Lagging: 
-      1. Cycle time 
-      2. Throughput 
-      3. Velocity (not a flow metric)
+   1. Cycle time 
+   2. Throughput 
+   3. Velocity (not a flow metric)
+
+----
+
+## Study Aids
+
+**The Scrum Values:**
+   1. Commitment
+   2. Courage
+   3. Focus
+   4. Openness
+   5. Respect
+
+(Memorize: CCFOR)
+
+**The Three Pillars of Scrum**
+   1. Transparency
+   2. Inspection
+   3. Adaptation
+
+(Memorize: TIA)
+
+----
+
+## Execution Plan
+
+**Introduction to Flow Methods**
+Sprint Flow: Turning Swamps Into Rivers. This would be a talk introducing the ideas and reasoning behind them. It would explain interpreting the metrics and demonstrate the predictive power of them. No announcment of any new practices would be made. 
+
+**Introduce Flow Metrics in Scrum Events**
+
+Sprint Planning: User Story (PBI) throughput
+
+The Daily Scrum: The Scrum Guide suggests that the Development Team members explain what they did yesterday, what they are focusing on today, and what their impediments are. *Kanban teams typically focus on the flow of work instead of the people doing the work*. They work the board right to left focusing on flow problems. Introduce work item age chart.
+
+Sprint Review: Say/Do of user stories.
+
+Sprint Retro: Review all charts/metrics (our current retrospectives are not useful). This meeting is where changes should be made and stuck to for the durration of the sprint. 
+
+**Calculate and display SLEs**
+
+
+**Introduce Board WIP Limits**
+
+
+
+
+
+
+
+
+
 
 
 
