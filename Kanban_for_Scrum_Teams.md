@@ -590,9 +590,11 @@ Sprint Retro: Review all charts/metrics (our current retrospectives are not usef
 
 This week the class is introduced to Kanban and its principles. The focus is on how to minimize uncertainty in work progress by using Kanban.
 
-Misc thoughts:
+A Note on Uncertainty:
 
-*   Uncertainty and risk is also opprotunity
+*   It's unavoidable
+*   Uncertainty IS opportunity in disguise ([See](https://www.diamond-consultants.com/look-beyond-uncertainty-to-see-opportunity/) and [lead](https://randyhnelson.com/are-you-leading-with-uncertainty-or-opportunity-thinking/) from the one)
+*   Address it iteratively. See the [OODA loop](https://en.wikipedia.org/wiki/OODA_loop)
 
 Discussion Questions:
 
@@ -602,7 +604,7 @@ foo
 
 > How did you become a Scrum Master?
 
-foo 
+foo
 
 > How did your early career influence your management style and how you manage/coach scrum teams?
 
@@ -622,4 +624,9 @@ foo
 
 > Do you have any personal advice for the class on how you manage complexity on your projects?
 
-foo
+1.  Release early and release often
+2.  Limit WIP
+    1.  Littles Law
+    2.  Deep Work
+3.  Work backward from the vertical slice
+    1.  At the team level and capability level
