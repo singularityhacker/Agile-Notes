@@ -464,6 +464,18 @@ Work Item Aging is any type of chart that shows the age of all in-progress items
 
 **Teaching Notes**
 
+\*A note on how we introduce this (this is going to be as technically difficult as it is going to be coaching difficult):
+
+*   [ ] Package this up with the SAFe learnings to NOT overwhelm the teams
+*   [ ] Educate on the ideas first (socialize through talks)
+*   [ ] Establish current baseline metrics for each team
+*   [ ] Asking leading [coaching questions](https://www.amazon.com/dp/B01BUIBBZI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+*   [ ] Present the metrics as tools for the team to use (not another new way of doing things)
+*   [ ] Show the metrics to the greater audience in sprint reviews when they improve (positive gamified feedback loop)
+*   [ ] Use Monte Carlo simulations to encourage more buy-in
+*   [ ] Give the tools to the teams to close the autonomous self-improvement loop
+*   [ ] Timeline this execution plan (Q3 goals)
+
 I. A Review of Scrum
 
 > Scrum: A framework within which other techniques and methods can be practiced. Scrum is not a process, technique, or definitive method. It is a framework within which you can employ various processes and techniques.
@@ -494,7 +506,7 @@ The most central concept to Kanban is the "Workflow"
 Q. What is the Kanban Guide's definition of "Workflow"?  
 A. A shared understanding within the SCRUM Team of how work is defined (work items), the start state of the process, the active states for the work items and the finished state of the work items. Workflow can be thought of as the "Team's policy" for how to get work to "Done".
 
-A work about policies: Policies are the "rules of the game" for the Scrum Team's “Workflow”. Small changes to those policies can have a material impact on how the Scrum Team performs overall.
+A word about policies: Policies are the "rules of the game" for the Scrum Team's “Workflow”. Small changes to those policies can have a material impact on how the Scrum Team performs overall.
 
 The workflow must have 5 things:
 
@@ -507,39 +519,50 @@ The workflow must have 5 things:
 Q. What is "Flow" related to Kanban?  
 A. It is the movement of customer value throughout the product development system.
 
-III. The 4 Flow Metrics
+III. The 4 Flow Metrics and Little Law
 
 1.  WIP
 2.  Cycle time
 3.  Work item age
 4.  Throughput
 
-IV. The Flow Formula
+The Flow Formula: Little Law
 
 Avg cycle time = Avg WIP / Avg Throughput
 
-V. The 4 Flow Practices
+IV. The 4 Flow Practices
 
 1.  Visualization of the workflow
 2.  Limiting WIP
 3.  Active management of work items
 4.  Inspect and adapt the definition of workflow
 
+V. By The Numbers
+
+1.  Cycle time
+    1.  Scatterplot
+    2.  Histogram
+    3.  SLE
+2.  Throughput
+3.  WIP
+    1.  Jira workflow demo
+    2.  Is a leading indicator when combined with Littles Law
+4.  Work item age
+    1.  Issue level risks are revealed
+    2.  Leading, not lagging, indicator
+
 VI. Flow Indicators
 
-Leading:
+Leading: WIP and Work item age
 
-WIP
+Lagging: Cycle time, throughput, and velocity (not a flow metric)
 
-Work item age
+Questions:
 
-Lagging:
-
-Cycle time
-
-Throughput
-
-Velocity (not a flow metric)
+1.  Is cross-training really happening now?
+2.  Is cross-training really possible?
+3.  Is cross-training desirable?
+4.  Would greater slack in sprints make cross-training a reality?
 
 ---
 
@@ -567,6 +590,16 @@ Velocity (not a flow metric)
 
 ## Execution Plan
 
+**Why Introduce Something New?**
+
+1.  We don't consistently meet our sprint goals
+2.  We don't know how accurate our estimates are at the issue-level
+3.  We don't know where our workflow bottlenecks are
+4.  We don't have real-time visibility of in-flight work
+5.  Kanban approaches promise to increase a team's efficiency and effectiveness
+6.  A consist way of applying them within the context of already existing Scrum teams has been solved
+7.  They promise a more effective means of prediction than using velocity with pure Scrum alone
+
 **Introduction to Flow Methods**  
 Sprint Flow: Turning Swamps Into Rivers. This would be a talk introducing the ideas and reasoning behind them. It would explain interpreting the metrics and demonstrate the predictive power of them. No announcement of any new practices would be made.
 
@@ -574,7 +607,7 @@ Sprint Flow: Turning Swamps Into Rivers. This would be a talk introducing the id
 
 Sprint Planning: User Story (PBI) throughput
 
-The Daily Scrum: The Scrum Guide suggests that the Development Team members explain what they did yesterday, what they are focusing on today, and what their impediments are. _Kanban teams typically focus on the flow of work instead of the people doing the work_. They work the board right to left focusing on flow problems. Introduce work item age chart.
+The Daily Scrum: The Scrum Guide suggests that the Development Team members explain what they did yesterday, what they are focusing on today, and what their impediments are. _Kanban teams typically focus on the flow of work instead of the people doing the work_. They work the board right to left focusing on flow problems. Introduce the work-item age chart.
 
 Sprint Review: Say/Do of user stories.
 
