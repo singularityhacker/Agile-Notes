@@ -592,7 +592,7 @@ This week the class is introduced to Kanban and its principles. The focus is on 
 
 A Note on Uncertainty:
 
-*   It's unavoidable
+*   It's unavoidable (we can't predict the future with certainty)
 *   Uncertainty IS opportunity in disguise ([See](https://www.diamond-consultants.com/look-beyond-uncertainty-to-see-opportunity/) and [lead](https://randyhnelson.com/are-you-leading-with-uncertainty-or-opportunity-thinking/) from the one)
 *   Address it iteratively. See the [OODA loop](https://en.wikipedia.org/wiki/OODA_loop)
 
@@ -660,7 +660,7 @@ foo
 
 > Do you prefer physical boards to digital versions?
 
-No. I prefer digital. 
+No. I prefer digital.
 
 > What are the pros/cons of Kanban?
 
