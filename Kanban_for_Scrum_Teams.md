@@ -631,29 +631,34 @@ A Note on Uncertainty:
 
 ### Personal Questions
 
-> Tell us a little about your career and background.
+> Tell us a little about your career and background. How did you become a Scrum Master?
 
-foo
-
-> How did you become a Scrum Master?
-
-foo
+Theology and analytic philosophy -> Web developer -> Founder -> Accidental Scrum Master
 
 > How did your early career influence your management style and how you manage/coach scrum teams?
 
-foo
+*   The universe is rational. 
+*   Software is amazing. 
+*   The future is going to blow our minds.
 
 > What do you really love about your current role?
 
-foo
+*   Get to be close to the code without being blinded by it
+*   Get to work with amazing engineers 
 
 > What are your top challenges as a Scum Manager?
 
-foo
+*   Coaching
+*   Getting buy-in on trying new things
 
 > The class series is for professionals who want to improve their project management skills. What are your thoughts around the Scrum Master vs Project Manager roles?
 
-foo
+1.  Project Manager:
+    1.  Products over projects
+    2.  Skilled knowledge workers need to manage themselves
+2.  Scrum Master:
+    1.  It's all about the increment
+    2.  I'm driving for "Agile Coach"
 
 > Do you have any personal advice for the class on how you manage complexity on your projects?
 
@@ -690,15 +695,51 @@ foo
 2.  Moved to Jira
 3.  Absolutely essential. The alternative is:
     1.  Endless multiplication of "working" and status report meetings
+    2.  Tyranny of the immediate
 
 > Do you prefer physical boards to digital versions?
 
-No. I prefer digital.
+I prefer digital for the following reasons:
+
+1.  Distributed teams
+2.  Unix philosophy of access (you cant drill down into a physical board to get more information)
+3.  Push notifications
+4.  Data exhaust
+
+But also advocate the following:
+
+1.  Physical boards had qualities that should carry over (story size)
+2.  Digital boards as information radiators
 
 > What are the pros/cons of Kanban?
 
-foo
+Pros:
+
+1.  Is the only quantitatively driven strategy that can be applied daily
+    1.  SLE (gives you a target for every work item)
+    2.  WIP (A sure lever to turn)
+    3.  Work Item Age
+2.  Very Simple (The Kanban Guide for Scrum Teams is 9 pages!!)
+    1.  Combine that with the scrum guide (19 pages)
+    2.  Compared to the PMBOK 6th edition book (800 pages)
+3.  Can see results in a single sprint (2 weeks)
+
+Cons:
+
+1.  More complex than it seems
+2.  Its perception
+    1.  Kanban is for manufacturing
+    2.  Kanban is for support work
+    3.  Kanban just means you'll get it when it's done
 
 > Any tips or techniques you would like to share with the class?
 
-foo
+1.  Don't despise the days of small beginnings. Kanban core principles:
+    1.  Start with what you know
+    2.  Respect the current process, roles, responsibilities, and titles
+2.  Reimagine everything as an engineering endeavor
+    1.  Software is eating the world (coffee mug firmware updates)
+    2.  Software will eat our jobs unless we become experts with the tools
+3.  Develop your system/brand
+    1.  Mindset
+    2.  Write (singularityhacker blog, guest blog posts, magazines, self-published micro books)
