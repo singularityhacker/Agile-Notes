@@ -4,11 +4,13 @@ Preparing to take the SAFe 5 Agile exam and become a certified SAFe® Agilist (S
 
 Scaled Agile Framework in 5 minutes (video): https://player.vimeo.com/video/368287903
 
-Chart of the 7 core competencies of the lean enterprise:
-
-![core](https://i.imgur.com/atrXanq.png)
-
 > "Those who master large-scale software delivery will define the economic landscape of the 21st century." - Mik Kersten, Project to Product
+
+Tipping points in technolgies:
+![tipping-points](https://i.imgur.com/J2Il3zc.png)
+
+Chart of the 7 core competencies of the lean enterprise:
+![core-pracrices](https://i.imgur.com/atrXanq.png)
 
 1.  Team and Technical Agility
     1.  Teams follow scrum patterns and meetings but replace terms
