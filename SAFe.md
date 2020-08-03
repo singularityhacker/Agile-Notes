@@ -6,10 +6,14 @@ Scaled Agile Framework in 5 minutes (video): https://player.vimeo.com/video/3682
 
 > "Those who master large-scale software delivery will define the economic landscape of the 21st century." - Mik Kersten, Project to Product
 
-Tipping points in technolgies:
+Tipping points in technologies:  
+ 
+
 ![tipping-points](https://i.imgur.com/J2Il3zc.png)
 
-Chart of the 7 core competencies of the lean enterprise:
+Chart of the 7 core competencies of the lean enterprise:  
+ 
+
 ![core-pracrices](https://i.imgur.com/atrXanq.png)
 
 1.  Team and Technical Agility
@@ -22,3 +26,7 @@ Chart of the 7 core competencies of the lean enterprise:
         2.  Product Management handles the backlog
         3.  System Architect
         4.  A program board is used to visualize dependencies between the teams
+
+Certification List:
+
+![](https://user-images.githubusercontent.com/1808235/89190132-04fd0b80-d56f-11ea-9a24-f6baa4991040.jpg)
