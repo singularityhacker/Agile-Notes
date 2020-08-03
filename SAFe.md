@@ -30,3 +30,6 @@ Chart of the 7 core competencies of the lean enterprise:
 Certification List:
 
 ![](https://user-images.githubusercontent.com/1808235/89190132-04fd0b80-d56f-11ea-9a24-f6baa4991040.jpg)
+
+> Key Area Takeaways for MyUPMC:
+1.
