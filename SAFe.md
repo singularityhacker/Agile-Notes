@@ -18,11 +18,11 @@ Articles:
 
 Videos:
 
-*   [ ] The penny exercise ([1](https://vimeo.com/256459905/5a104a61c5), [2](https://vimeo.com/256460187/3c08a15bd3), and [3](https://vimeo.com/256460427/438210fe17))
+*   The penny exercise ([1](https://vimeo.com/256459905/5a104a61c5), [2](https://vimeo.com/256460187/3c08a15bd3), and [3](https://vimeo.com/256460427/438210fe17))
 *   [SAFe in 5 minutes](https://player.vimeo.com/video/368287)
-*   [ ] PI Planning Case Studies ([1](https://www.youtube.com/watch?v=EF0yGq9XCrA&feature=youtu.be) & [2](https://www.youtube.com/watch?v=TWhWhoAfgLE))
+*   PI Planning Case Studies ([1](https://www.youtube.com/watch?v=EF0yGq9XCrA&feature=youtu.be) & [2](https://www.youtube.com/watch?v=TWhWhoAfgLE))
 *   [SAFe DevOps](https://vimeo.com/342037390/3a25026214)
-*   [ ] SpaceX [product vision](https://www.youtube.com/watch?v=zqE-ultsWt0) video (Amazing)
+*   SpaceX [product vision](https://www.youtube.com/watch?v=zqE-ultsWt0) video (Amazing)
 
 Study:
 
