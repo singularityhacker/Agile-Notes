@@ -15,6 +15,8 @@ Articles:
 *   [The 7 wastes of Software Development](https://codepunk.io/the-seven-wastes-of-software-development/)
 *   [Dunbar's Number](https://en.wikipedia.org/wiki/Dunbar%27s_number#:~:text=Dunbar's%20number%20is%20a%20suggested,relates%20to%20every%20other%20person.)
 *   [Metrics](https://www.scaledagileframework.com/metrics/)
+*   [Business Agility](https://www.scaledagileframework.com/business-agility/)
+*   [Lean Portfolio Management](https://www.scaledagileframework.com/lean-portfolio-management/)
 
 Videos:
 
@@ -23,6 +25,8 @@ Videos:
 *   PI Planning Case Studies ([1](https://www.youtube.com/watch?v=EF0yGq9XCrA&feature=youtu.be) & [2](https://www.youtube.com/watch?v=TWhWhoAfgLE))
 *   [SAFe DevOps](https://vimeo.com/342037390/3a25026214)
 *   SpaceX [product vision](https://www.youtube.com/watch?v=zqE-ultsWt0) video (Amazing)
+*   [The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+*   ["Greatness" by David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q&feature=youtu.be)
 
 Study:
 
