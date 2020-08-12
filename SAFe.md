@@ -70,7 +70,14 @@ Certification List:
 
 Multiple levels of application. Don't need the whole thing. It's modular. (An adaptation/conversion of this in DAO format should be the same)
 
-*   7 core competencies
-*   3 dimensions per competency 
-*   9 safe principles
-*   12 SAFe implementation roadmap steps
+1.  4 Core Values
+    1.  alignment
+    2.  built-in quality
+    3.  transparency
+    4.  program execution
+2.  7 core competencies with 3 dimensions per competency
+    1.  ...
+3.  9 (or ten?) safe principles
+    1.  https://i.imgur.com/U7cjHnz.png
+4.  12 SAFe implementation roadmap steps
+    1.  ...
