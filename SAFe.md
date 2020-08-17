@@ -76,8 +76,23 @@ Multiple levels of application. Don't need the whole thing. It's modular. (An ad
     3.  transparency
     4.  program execution
 2.  7 core competencies with 3 dimensions per competency
-    1.  ...
-3.  9 (or ten?) safe principles
-    1.  https://i.imgur.com/U7cjHnz.png
+    1.  Team and Technical Agility
+    2.  Agile product delivery
+    3.  Enterprise solution delivery
+    4.  Lean portfolio management
+    5.  Organizational Agility
+    6.  Continuous Learning Culture
+    7.  Lean-Agile Leadership
+3.  The 10 SAFe LEan-Agile Principles
+    1.  Take an economic view
+    2.  Apply systems thinking
+    3.  Assume variability; preserve options
+    4.  Build incrementally with fast; integrated learning cycles
+    5.  Base milestones on objective evaluation of working systems
+    6.  Visualize and limit WIP, reduce batch sizes, and manage queue lengths
+    7.  Apply cadence, synchronize with cross-domain planning
+    8.  Unlock the intrinsic motivation of knowledge workers
+    9.  Decentralize decision-making
+    10.  Organize around value
 4.  12 SAFe implementation roadmap steps
     1.  ...
