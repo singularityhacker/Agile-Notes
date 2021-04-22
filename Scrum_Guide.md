@@ -2,6 +2,8 @@
 
 A commentary on the Scrum Guide by Ken Schwaber & Jeff Sutherland (Nov 2020 edition)
 
+![](https://i.imgur.com/Gp9O4cN.png)
+
 > Purpose of the Scrum Guide
 > 
 > We developed Scrum in the early 1990s. We wrote the first version of the Scrum Guide in 2010 to help people worldwide understand Scrum. We have evolved the Guide since then through small, functional updates. Together, we stand behind it.
@@ -14,9 +16,11 @@ A commentary on the Scrum Guide by Ken Schwaber & Jeff Sutherland (Nov 2020 edit
 > 
 > Ken Schwaber & Jeff Sutherland November 2020
 
-....
+It's interesting the way they have hijacked the word "developer". One of the proposed biggest areas for the growth of Scrum in 2020 was supposed to be its extension into non-software development environments. 
 
-![](https://i.imgur.com/Gp9O4cN.png)
+It also doesn't claim to be exhaustive or reduction aesthetic and the last paragraph where it says that other things will certainly be discovered along the way and their uses context-dependent. This leads me to believe that the door is wide open for adding to this and still officially retaining the title of "Scrum". This means that scaling approaches have to be careful because if they contradict or exclude any of the fundamental components contained here that they officially lose the right to call themselves Scrum. 
+
+**Q. Does anyone feel empowered or encouraged to expand and evolve what they are doing?**
 
 > Scrum Definition
 > 
@@ -33,7 +37,17 @@ A commentary on the Scrum Guide by Ken Schwaber & Jeff Sutherland (Nov 2020 edit
 > 
 > Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 
-....
+"The Scrum framework is purposefully incomplete" means there's lots of room for innovation so stop being afraid of it. 
+
+"or renders them unnecessary" has happened a lot. 
+
+Daily checkpoints (new) = daily scrum (fits existing)
+
+Plan the release (new) = sprint planning (fits existing)
+
+Progress updates (new) = sprint review (fits existing)
+
+**Q. Does anyone have any practices they feel are redundant or positively augment scrum?**
 
 > Scrum Theory
 > 
