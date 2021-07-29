@@ -56,13 +56,24 @@ The flow-based perspective of Kanban can enhance and complement the Scrum framew
 
 _The Kanban Guide for Scrum Teams_ is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind _The Kanban Guide for Scrum Teams_. It is their shared belief that professional product development practitioners can benefit from the application of Kanban together with Scrum.
 
+> Note that both of these guys are really good: Daniel Vacanti and Yuval Yeret. Would be worth your time to watch some of their lectures on YouTube. 
+
 **Relation to the Scrum Guide**
 
 This guide does not replace or discount any part of _The Scrum Guide_. It is designed to enhance and expand the practices of Scrum. This guide assumes the reader is operating a process using the Scrum framework. Therefore, _The Scrum Guide_ applies in its entirety.
 
+> Dispels the false dycotomy assumed by 99% of prople who discuss scrum and kanban. 
+
 **Definition of Kanban**
 
 Kanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work-in-progress limited pull system.
+
+> Observations:
+> 
+> 1.  Flow of value (sprints are concerned with meetign the commitment)
+> 2.  Visual
+> 3.  WIP limited
+> 4.  Pull system
 
 **Kanban with Scrum Theory**
 
