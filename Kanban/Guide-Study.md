@@ -48,8 +48,6 @@ Endnote ........................................................................
 
 History and Acknowledgments ....................................................................................................... 9
 
-© 2021 Scrum.org. Offered for license under the Attribution Share-Alike license of Creative Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this _Kanban Guide for Scrum Teams_, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
-
 ---
 
 **Purpose**
@@ -83,7 +81,7 @@ The four basic metrics of flow that Scrum Teams using Kanban need to track are a
 *   **Work in Progress (WIP):** The number of work items started but not finished. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow. Note that there is a difference between the WIP metric and the policies a Scrum Team uses to limit WIP.
 *   **Cycle Time:** The amount of elapsed time between when a work item starts and when a work item finishes.
 *   **Work Item Age:** The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
-*   **Throughput:** The number of work items finished per unit of time. 
+*   **Throughput:** The number of work items finished per unit of time.
 
 **Little’s Law – The Key to Governing Flow**
 
@@ -124,7 +122,7 @@ Visualization should include the following:
 *   A definition of the work items - the individual units of value (stakeholder value, knowledge value, process improvement value) that are flowing through the Scrum Team's system (most likely Product Backlog items (PBIs)).
 *   A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).
 *   Explicit policies about how work flows through each state (which may include items from a Scrum Team's Definition of Done and pull policies between stages).
-*   Policies for limiting Work in Progress (WIP). 
+*   Policies for limiting Work in Progress (WIP).
 
 **Limiting Work in Progress (WIP)**
 
