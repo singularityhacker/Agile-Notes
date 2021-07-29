@@ -70,8 +70,10 @@ Kanban (n): a strategy for optimizing the flow of value through a process that u
 
 > Observations:
 > 
+> What does everyone think the distinction from scrum is in relation to each of these?
+> 
 > 1.  Flow of value (sprints are concerned with meetign the commitment)
-> 2.  Visual
+> 2.  Visual (probably most similar to what we are doing except for showign the next )
 > 3.  WIP limited
 > 4.  Pull system
 
@@ -84,6 +86,8 @@ Central to the definition of Kanban is the concept of _flow._ Flow is the moveme
 Optimizing flow in a Scrum context requires defining what flow means in Scrum. Scrum is founded on empirical process control theory or empiricism. The key to empirical process control is the frequency of the transparency, inspection, and adaptation cycle - which we can also describe as the Cycle Time through the feedback loop.
 
 When Kanban practices are applied to Scrum, they provide a focus on improving the flow through the feedback loop; optimizing transparency and the frequency of inspection and adaptation for both the product and the process.
+
+> One thing I take from this is that the feedback loop in scrum is kind of the iteration whereas the feedback look in kanban is the work passing through the workflow.
 
 **The Basic Metrics of Flow**
 
