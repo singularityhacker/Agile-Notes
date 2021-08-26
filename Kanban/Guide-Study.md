@@ -138,11 +138,11 @@ Note that the scope of the Definition of Workflow may span beyond the Sprint and
 > 
 > 1.  Product document (PRD)
 > 2.  New
-> 3.  Refinement 
+> 3.  Refinement
 > 
-> Why might acknoledign these be helpful to an orginization?
+> Why might acknowledging these be helpful to an orginization?
 > 
-> Leadtime vs cycle time (Org level efficiencies)
+> Leadtime vs cycle time (Org level efficiencies) 
 
 Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.
 
@@ -157,6 +157,14 @@ Visualization should include the following:
 *   A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).
 *   Explicit policies about how work flows through each state (which may include items from a Scrum Team's Definition of Done and pull policies between stages).
 *   Policies for limiting Work in Progress (WIP).
+
+> Lets pause after each and see if we might be able to drill into why they might be important:
+> 
+> 1.  Defines a teams cycle time
+> 2.  Not all work is created equal
+> 3.  Defines the process of development (a)
+> 4.  Defines the process of development (b)
+> 5.  The secret (machine of delivery)
 
 **Limiting Work in Progress (WIP)**
 
