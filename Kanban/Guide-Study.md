@@ -110,6 +110,8 @@ If cycle times are too long, the first action Scrum Teams should consider is low
 
 Little's Law also shows us how flow theory relies on empiricism by using flow metrics and data to gain transparency into historical flow and then using that data to inform flow inspection and adaptation experiments.
 
+---
+
 **Kanban Practices**
 
 Scrum Teams can achieve flow optimization by using the following four practices:
@@ -119,11 +121,28 @@ Scrum Teams can achieve flow optimization by using the following four practices:
 *   Active management of work items in progress
 *   Inspecting and adapting the team’s Definition of Workflow
 
+> What do these mean, why only four, and why these four?
+> 
+> 1.  Humans are built for visual processing
+> 2.  Littles Law (less wip equils higher throughput)
+> 3.  The leading indicator (work item age)
+> 4.  Continious improvement
+
 Definition of Workflow
 
 The four Kanban practices are enabled by the Scrum Team’s Definition of Workflow. This definition represents the Scrum Team members’ explicit understanding of what their policies are for following the Kanban practices. This shared understanding improves transparency and enables self-management.
 
 Note that the scope of the Definition of Workflow may span beyond the Sprint and the Sprint Backlog. For instance, a Scrum Team's Definition of Workflow may encompass flow inside and/or outside of the Sprint.
+
+> What could be some examples of workflwo states outside of the sprint?
+> 
+> 1.  Product document (PRD)
+> 2.  New
+> 3.  Refinement 
+> 
+> Why might acknoledign these be helpful to an orginization?
+> 
+> Leadtime vs cycle time (Org level efficiencies)
 
 Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.
 
