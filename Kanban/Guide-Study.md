@@ -166,6 +166,8 @@ Visualization should include the following:
 > 4.  Defines the process of development (b)
 > 5.  The secret (machine of delivery)
 
+---
+
 **Limiting Work in Progress (WIP)**
 
 Work in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished.
