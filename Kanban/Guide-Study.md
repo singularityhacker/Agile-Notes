@@ -168,6 +168,23 @@ Visualization should include the following:
 
 ---
 
+> Ice breaker:
+> 
+> 1.  Take a few minutes. 
+> 2.  We can go around the horn.
+> 3.  One thing you're excited about that happened since we met last? 
+
+> Previous week recap:
+> 
+> We started on the Kanban practices and a quick way to summarize these would be to
+> 
+> 1.  See whats happening
+> 2.  Limit what gets started
+> 3.  Carfully monitor what has been started
+> 4.  Reasses and refine 
+> 
+> We covered the first one last week. Lets see if we can finish the next three today.
+
 **Limiting Work in Progress (WIP)**
 
 Work in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished.
@@ -177,6 +194,12 @@ Scrum Teams using Kanban must explicitly limit the number of these work items in
 The primary effect of limiting WIP is that it creates a pull system. It is called a pull system because the team starts work (i.e. pulls) on an item only when it is clear that it has the capacity to do so. When the WIP drops below the defined limit, that is the signal to start new work. Note this is different from a push system, which demands that work starts on an item whenever it is requested.
 
 Limiting WIP helps flow and improves the Scrum Team's self-management, focus, commitment, and collaboration.
+
+> Scrum teams already use a pull sytem in the form of the sprint goal. The teams takes in enough for the sprint goal and doesnt get work added by others. They dont pull in the next sprint work until the first one is completed.
+> 
+> Kanban is doing the same but at the level of the workflow stage. 
+> 
+> Demo: \[Show Jira WIP limits\]
 
 **Active Management of Work Items in Progress**
 
@@ -200,6 +223,19 @@ The following are aspects of the Definition of Workflow the Scrum Team might ado
 
 *   Visualization policies - for example, Workflow states - either changing the actual Workflow or bringing more transparency to an area in which the team wants to inspect and adapt.
 *   How-we-work policies - these can directly address an impediment. For example, adjusting WIP limits and SLEs or changing the batch size (how often items are pulled between states) can have a dramatic impact.
+
+> Conclusion:
+> 
+> Invitation for others to present anything for this group. Ideas:
+> 
+> *   Manual
+> *   Manifesto
+> *   Teaching material
+> *   Personal presentation
+
+\--> Line up a guest speaker \<--
+
+---
 
 **Flow-Based Events**
 
