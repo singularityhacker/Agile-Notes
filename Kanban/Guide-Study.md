@@ -168,22 +168,26 @@ Visualization should include the following:
 
 ---
 
-> Ice breaker:
-> 
-> 1.  Take a few minutes. 
-> 2.  We can go around the horn.
-> 3.  One thing you're excited about that happened since we met last? 
+Ice breaker:
 
-> Previous week recap:
-> 
-> We started on the Kanban practices and a quick way to summarize these would be to
-> 
-> 1.  See whats happening
-> 2.  Limit what gets started
-> 3.  Carfully monitor what has been started
-> 4.  Reasses and refine 
-> 
-> We covered the first one last week. Lets see if we can finish the next three today.
+1.  Take a few minutes.
+2.  We can go around the horn.
+3.  One thing you're excited about that happened since we met last?
+
+...
+
+Previous week recap:
+
+We started on the Kanban practices and a possible way to summarize these would be
+
+1.  See whats happening
+2.  Limit what gets started
+3.  Carefully monitor what has been started
+4.  Reasses and refine
+
+We covered the first one last week. Lets see if we can finish the next three today.
+
+......
 
 **Limiting Work in Progress (WIP)**
 
@@ -195,11 +199,15 @@ The primary effect of limiting WIP is that it creates a pull system. It is calle
 
 Limiting WIP helps flow and improves the Scrum Team's self-management, focus, commitment, and collaboration.
 
+......
+
 > Scrum teams already use a pull sytem in the form of the sprint goal. The teams takes in enough for the sprint goal and doesnt get work added by others. They dont pull in the next sprint work until the first one is completed.
 > 
 > Kanban is doing the same but at the level of the workflow stage. 
 > 
 > Demo: \[Show Jira WIP limits\]
+
+......
 
 **Active Management of Work Items in Progress**
 
